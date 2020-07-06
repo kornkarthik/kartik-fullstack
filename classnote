@@ -7,3 +7,24 @@ git push -u origin master
                 
 or 
 
+How to set up Environment/Machine for Web Developemnt?
+
+1) IDE - VS Code 
+2) Git Installation
+3) GitHub Account Creation, Repository Creation
+
+GitHub Command for initial setup, push and pull
+
+
+echo "# kartik-fullstack" >> README.md
+
+git init
+git add README.md
+git commit -m "first commit"
+
+git config --global user.name "username" 
+git config --global user.email "email address"
+
+git commit -m "first commit"
+git remote add origin https://github.com/narasimhareddyprostack/kartik-fullstack.git
+git push -u origin master
