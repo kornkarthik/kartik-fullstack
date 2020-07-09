@@ -28,3 +28,11 @@ git config --global user.email "email address"
 git commit -m "first commit"
 git remote add origin https://github.com/narasimhareddyprostack/kartik-fullstack.git
 git push -u origin master
+
+<head>
+
+<kartik></kartik>
+<abc></abc>
+
+<html>
+
